@@ -1,0 +1,2 @@
+C:\Users\migue\source\repos\Tokenizer\x64\Debug\Tokenizer.exe
+P:\School\Programming\Data Structures\repos\Tokenizer\x64\Debug\Tokenizer.exe

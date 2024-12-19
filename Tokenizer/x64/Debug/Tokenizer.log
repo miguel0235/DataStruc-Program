@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\migue\Desktop\Tokenizer\main.cpp : fatal error C1083: Cannot open program database file: 'C:\Users\migue\Desktop\Tokenizer\x64\Debug\vc142.idb': No error
+  Tokenizer.cpp
+C:\Users\migue\Desktop\Tokenizer\Tokenizer.cpp : fatal error C1083: Cannot open program database file: 'C:\Users\migue\Desktop\Tokenizer\x64\Debug\vc142.idb': No error
+  Generating Code...

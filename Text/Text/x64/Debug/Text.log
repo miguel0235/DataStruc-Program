@@ -1,0 +1,5 @@
+﻿  RPNCalc.cpp
+  Stack.cpp
+C:\Users\migue\Desktop\Text\Text\Stack.cpp(5,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\migue\Desktop\Text\Text\Stack.cpp(37,3): error C2065: 's': undeclared identifier
+  Generating Code...

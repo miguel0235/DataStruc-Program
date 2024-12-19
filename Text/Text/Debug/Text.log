@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Tokenizer.cpp
+C:\Users\migue\source\repos\Text\Text\Tokenizer.cpp(9,1): error C2511: 'bool Tokenizer::isEmpty(void)': overloaded member function not found in 'Tokenizer'
+C:\Users\migue\source\repos\Text\Text\Tokenizer.h(11): message : see declaration of 'Tokenizer'
+  Generating Code...
